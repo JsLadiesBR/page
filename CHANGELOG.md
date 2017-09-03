@@ -6,4 +6,4 @@ Modelo de documento baseado em [Semantic Versioning](http://semver.org/). Exempl
 
 ## UNRELEASED
 ### Added
-- Criação dos arquivos de README, e do tutorial.
+- Criação dos arquivos de README.
