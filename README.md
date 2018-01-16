@@ -16,7 +16,7 @@ Este projeto está licenciado sob a licença [Creative Commons Attribution-Share
 
 ## Construido com
 
-* Nada ainda, a não ser marcação de texto.
+* Vue.Js
 
 ## Autoras
 
